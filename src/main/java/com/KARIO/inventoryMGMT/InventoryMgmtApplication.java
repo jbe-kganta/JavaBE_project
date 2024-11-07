@@ -8,7 +8,7 @@ public class InventoryMgmtApplication {
 
 	public static void main(String[] args) {
 		System.out.println("Welcome to CARS inventory Management");
-		System.out.println("This helps to build inventory management project");
+		System.out.println("This helps to build inventory management project for KARIO");
 	}
 
 }
